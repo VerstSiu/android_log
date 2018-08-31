@@ -136,7 +136,7 @@ See also:
     }
     ```
 
-* Common simple/lazy log manager:
+* Common log manager:
 
     ```kotlin
     object SimpleLog: SimpleLogManager
