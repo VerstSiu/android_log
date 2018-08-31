@@ -1,6 +1,8 @@
 
 # Android Log
 
+[![](https://jitpack.io/v/VerstSiu/android_log.svg)](https://jitpack.io/#VerstSiu/android_log)
+
 Android log library project. Support lazy generate log message. And prevent log output for release applications.
 
 See also:
@@ -23,6 +25,7 @@ See also:
 
     ```gradle
     dependencies {
+        implementation 'com.github.VerstSiu:android_log:1.0'
     }
     ```
 
